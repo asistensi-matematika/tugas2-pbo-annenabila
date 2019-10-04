@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: anne nabila r
 
-NRP: `isi nrp disini`
+NRP: 06111840000063
 
 
 ## DESKRIPSI SOAL
@@ -31,12 +31,12 @@ penjelasan:(1+3i) * (2+i) = 2 + i + 6i + i2 = 1+7i
 ## soal
 ```
 input:"4i","3-7i"
-output:
+output: 28+12i
 ```
 
 ```
 input:"7+6i","7+6i"
-output:
+output:13+84i
 ```
 
 ### 1 extra mile
@@ -47,7 +47,9 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+![Untitled](https://user-images.githubusercontent.com/55887990/66181246-43e5da80-e69a-11e9-8abd-b32ce51f33e9.png)
+![Untitled2](https://user-images.githubusercontent.com/55887990/66181247-43e5da80-e69a-11e9-9dcb-1a275cbb223b.png)
+
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
